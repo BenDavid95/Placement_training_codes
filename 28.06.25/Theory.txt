@@ -1,0 +1,91 @@
+Java Inheritance
+
+
+
+new class from a existing class
+
+subclass 
+superclass
+
+1.Single Inheritance
+
+Class A
+
+
+2. multilevel Inheritance
+
+class A
+|
+|
+class B
+|
+|
+Class c
+
+
+3.Hierarchial Inheritance
+
+
+              ______Class A_______
+                |          |
+             Class B      Class C
+
+
+
+
+4.Multi Inheritance
+
+
+5.Hybrid Inheritance
+
+
+
+
+
+class Animal
+{
+void eat(
+{
+System.out.println("eating");
+}
+void sleep(
+{
+System.out.println("sleeping");
+}
+}
+ class Human extends Mokey
+{
+void read()
+{
+System.out.println("reading");
+}
+
+
+
+
+
+
+
+
+achieving polymorphism in java :
+
+1.method overloading
+2.method overriding
+3.Operator overloading
+
+
+@ override
+
+   
+
+
+Java Encapsulation
+
+
+
+
+
+bundling of fields and methods
+
+Data Hiding
+   - can use access modifiers to achieve data handling
