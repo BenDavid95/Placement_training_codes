@@ -13,3 +13,5 @@ removeFirst()	Remove an element from the beginning of the list
 removeLast()	Remove an element from the end of the list	
 getFirst()	Get the element at the beginning of the list	
 getLast()	Get the element at the end of the list	
+
+https://www.w3schools.com/JAVA/java_list.asp
